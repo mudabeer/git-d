@@ -1,0 +1,2 @@
+# git-d
+for learning
