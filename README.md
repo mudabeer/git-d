@@ -1,6 +1,6 @@
 # git-d
-for learning
+quick mastering
 
 ## subheader
 
-watch tutorial
+watch tutorial it is great
