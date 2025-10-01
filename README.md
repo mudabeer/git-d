@@ -1,5 +1,5 @@
 # git-d
-for learning
+mastering the git and github
 
 ## subheader
 
